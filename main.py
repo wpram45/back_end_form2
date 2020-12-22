@@ -14,8 +14,8 @@ import random
 import json
 app = Flask(__name__)
 
-app.config['MYSQL_USER'] = 'wpram45'
-app.config['MYSQL_PASSWORD'] = 'serif4545'
+app.config['MYSQL_USER'] = 'root'
+app.config['MYSQL_PASSWORD'] = '2020firat'
 app.config['MYSQL_DB'] = 'tez_oneri_formu'
 app.config['MYSQL_HOST'] = 'localhost'
 
